@@ -216,7 +216,7 @@ const questions = [
                   "D. Range ambiguity.",
                   "E. Beam-width artifact."
               ],
-              "questionImage" : "images/2_18.jpg"   , 
+              "questionImage": "https://alhadi415.github.io/top/images/2_18.JPG"   , 
   
               "answer": "E. Beam-width artifact.",
               "explanation": "  This is an example of a beam-width artifact. The ultrasound beam is wide enough to detect both antegrade (ascending aorta) and retrograde (proximal descending aorta) flows. The resulting spectral tracing shows the superimposition of the adjacent flows. Near-field clutter, ghosting, and shadowing type of artifacts are covered elsewhere in this chapter. "
@@ -229,7 +229,7 @@ const questions = [
                   "C. The spectral tracing results from a ghosting artifact.",
                   "D. This is an example of the shadowing type of artifact."
               ],
-              "questionImage" : "images/2_19.jpg"   , 
+              "questionImage": "https://alhadi415.github.io/top/images/2_19.JPG" ,
   
               "answer": "B. The superimposition of adjacent flows is due to a beam-width artifact.",
               "explanation": "The ultrasound beam is wide enough to detect both antegrade (ascending aorta) and retrograde (proximal descending aorta) flows. The resulting spectral tracing shows the superimposition of the adjacent flows."
@@ -242,8 +242,7 @@ const questions = [
                   "C. Shadowing artifact.",
                   "D. Side lobe artifact."
               ],
-              "questionImage" : "images/2_20.jpg"   , 
-  
+             "questionImage": "https://alhadi415.github.io/top/images/2_20.JPG" ,  
               "answer": "D. Side lobe artifact.",
               "explanation": "This is an example of a side lobe artifact, which is generated from the warfarin (Coumadin) ridge. It is assumed that the ultrasound waves travel in straight lines and most of the energy is concentrated along the main beam. Side lobe artifacts occur when some of the energy encounters a reflector, which can produce echoes that will return to the transducer."
           },
@@ -255,7 +254,7 @@ const questions = [
                   "C. There is attenuation of the mitral valve due to inspiration.",
                   "D. There is no artifact in this image."
               ],
-              "questionImage" : "images/2_21.jpg"   , 
+              "questionImage": "https://alhadi415.github.io/top/images/2_21.JPG" ,
   
               "answer": "C. There is attenuation of the mitral valve due to inspiration.",
               "explanation": "Figure 2-6 is an M-mode image in the parasternal long-axis view at the level of the mitral valve showing attenuation of the mitral valve. Attenuation of ultrasound is a product of scattering, absorption, or reflection of sound waves in this case due to increased lung tissue during inspiration."
@@ -269,7 +268,7 @@ const questions = [
                   "D. Shielding.",
                   "E. Refraction."
               ],
-              "questionImage" : "images/2_22.jpg"   , 
+        "questionImage": "https://alhadi415.github.io/top/images/2_22.JPG" ,
   
               "answer": "D. Shielding.",
               "explanation": "  Figure 2-7 shows shielding of the left atrium caused by a mechanical aortic valve. Shielding refers to the presence of a bright beam of ultrasound artifact that obscures the visualization of tissue beyond this point. Shadowing refers to the attenuation of ultrasound beyond a bright reflector that similarly obscures the visualization of ultrasound. Ghosting refers to color Doppler that is distorted beyond anatomic borders because of multiple reflections. As described earlier, attenuation is due to scattering, absorption, or reflection. Refraction is due to bending of the ultrasound beam that results in an appearance of side-to-side images                        "
@@ -282,7 +281,7 @@ const questions = [
                   "C. Shadowing.",
                   "D. Refraction."
               ],
-              "questionImage" : "images/2_23.jpg"   , 
+      "questionImage": "https://alhadi415.github.io/top/images/2_23.JPG" ,
   
               "answer": "A. Near-field clutter.",
               "explanation": "The artifact is caused by echoes from structures close to the transducer and affects the imaging in the near field by generating high-amplitude reflections."
@@ -295,7 +294,7 @@ const questions = [
                   "C. Ghosting.",
                   "D. Side lobe."
               ],
-              "questionImage" : "images/2_24.jpg"   , 
+     "questionImage": "https://alhadi415.github.io/top/images/2_24.JPG" ,
   
               "answer": "C. Ghosting.",
               "explanation": "Ghosting refers to color Doppler distortion caused by multiple reflections from anatomic borders and results in duplicated flow signals."
@@ -308,7 +307,7 @@ const questions = [
                   "C. Reverberation.",
                   "D. Shielding."
               ],
-              "questionImage" : "images/2_25.jpg"   , 
+"questionImage": "https://alhadi415.github.io/top/images/2_25.JPG" ,
   
               "answer": "C. Reverberation.",
               "explanation": "Reverberation occurs when the sound beam bounces between two reflective surfaces, creating multiple equally spaced echoes."
@@ -381,7 +380,7 @@ const questions = [
           
           
   
-      ]
+      
       
   
   
