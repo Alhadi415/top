@@ -250,7 +250,8 @@ const questions = [
         "B. He has hypertrophic cardiomyopathy.",
         "C. He has an infiltrative cardiomyopathy.",
         "D. He has hypertensive heart disease."
-    ],"questionImage": "https://alhadi415.github.io/top/images/3_19q.JPG",
+    ],"questionImage": "https://alhadi415.github.io/top/images/3_19q.jpg" ,
+
 
     answer: "A. He has normal heart.",
     "explanation":" These data show significant systolic and diastolic dysfunction in this patient with symptoms of exertional dyspnea. The strain image demonstrates longitudinal strain. Longitudinal strain can be thought of as the degree of compression of 6 segments of myocardium along the long axis. Normal data from our laboratory indicate that longitudinal strain averages 22%  3%. There is regional variation in strain values, with higher values seen in the apical segments. In this example, however, the highest strain values are approximately 14%, which are low and indicative of systolic dysfunction. The values demonstrate the usual apex-to-base gradient, though the values are consistently lower than normal. In addition, what secures the diagnosis of abnormal LV function is the tissue Doppler diastolic findings. The average diastolic velocities for a 43-year-old normalindividual should be in the range of 16  4 cm/sec, more than twice as high as what is shown. Thus, the systolic and diastolic data shown indicate abnormalities of systolic and diastolic function. Given that there are no focal wall motion abnormalities, one must suspect a global process, such as infiltrative cardiomyopathy (e.g., amyloidosis), hypertrophic cardiomyopathy, or severe hypertensive heart disease, where some of the dysfunction may be related to high afterload.   ",
@@ -386,7 +387,7 @@ const questions = [
         "B. A large thoracic mass.",
         "C. A dissection involving the descending aorta.",
         "D. Both a pericardial and pleural effusion."
-    ],"explanationImage": "https://alhadi415.github.io/top/images/3_28e.JPG",
+    ],"explanationImage": "https://alhadi415.github.io/top/images/3_28e.jpg",
     answer: "B. A large thoracic mass.",
     "explanation":" . In Fig. 3-19A, the echocardiogram shows that the patient has a large hiatal hernia. The accompanying CT scan in Fig. 3-19B demonstrates a hiatal hernia (large white arrow) that is clearly encroaching on the left atrium (smaller white arrow). Hiatal hernias are commonly encountered in clinical echocardiography and are seen as cystic masses. These masses may be mistaken for an atrial spaceoccupying structure. With transthoracic echocardiography, the administration of a carbonated beverage can produce a contrast effect within the hiatal hernia and can be used as a diagnostic maneuver to demonstrate its true nature as a pseudomass. Although perflutren contrast would certainly demonstrate whether this structure is cardiac or vascular, it would not be as likely to unambiguously make the diagnosis. Agitated saline injected through the left antecubital vein is useful for many indications, including helping to diagnosis an anomalous left superior vena cava draining into the coronary sinus. In general, the structure shown is too large to be a dilated coronary sinus. Finally, a Valsalva maneuver might be helpful in the diagnosis of a hiatal hernia, in that it might provoke a “disparate degree of encroachment on the left atrium attributable to respiratory motion.” However, ingestion of a carbonated beverage would likely make the diagnosis clearer     ",
 
@@ -400,7 +401,7 @@ const questions = [
         "B. Injection of agitated saline contrast through the left antecubital vein.",
         "C. Administration of a perflutren contrast agent.",
         "D. Valsalva maneuver."
-    ],"explanationImage": "https://alhadi415.github.io/top/images/3_29e.JPG",
+    ],"explanationImage": "https://alhadi415.github.io/top/images/3_29e.jpg",
     answer: "A. Ingestion of a carbonated beverage.",
     "explanation":" . In Fig. 3-19A, the echocardiogram shows that the patient has a large hiatal hernia. The accompanying CT scan in Fig. 3-19B demonstrates a hiatal hernia (large white arrow) that is clearly encroaching on the left atrium (smaller white arrow). Hiatal hernias are commonly encountered in clinical echocardiography and are seen as cystic masses. These masses may be mistaken for an atrial spaceoccupying structure. With transthoracic echocardiography, the administration of a carbonated beverage can produce a contrast effect within the hiatal hernia and can be used as a diagnostic maneuver to demonstrate its true nature as a pseudomass. Although perflutren contrast would certainly demonstrate whether this structure is cardiac or vascular, it would not be as likely to unambiguously make the diagnosis. Agitated saline injected through the left antecubital vein is useful for many indications, including helping to diagnosis an anomalous left superior vena cava draining into the coronary sinus. In general, the structure shown is too large to be a dilated coronary sinus. Finally, a Valsalva maneuver might be helpful in the diagnosis of a hiatal hernia, in that it might provoke a “disparate degree of encroachment on the left atrium attributable to respiratory motion.” However, ingestion of a carbonated beverage would likely make the diagnosis clearer     ",
 
