@@ -372,40 +372,4 @@ const questions = [
               "answer": "C. Mirror image caused by a strong reflector.",
               "explanation": "Mirror-image artifacts occur when a structure is duplicated on the opposite side of a strong reflector due to the assumption that all echoes return along a single path."
           }
-          
-          
-          
-          
-          
-          
-          
-  
-      
-      
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+        ]
