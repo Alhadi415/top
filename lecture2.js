@@ -204,7 +204,7 @@ const questions = [
               "explanation": "This type of artifact is known as near-field clutter. It is created from high-amplitude reflections from the transducer and affects the near field of the ultrasound beam. The appearance of additional echoes in the near field can mask weaker echoes of true anatomic structures or mimic a mass or thrombus. It is often misinterpreted as a left ventricular thrombus. Improving the near-field resolution with higher frequency transducers, changing the views, and using contrast agents and harmonic imaging can all help reduce or eliminate this type of artifact (Fig. 2-15; T  transmitted pulse; L  returned pulse).    ",
               "explanationImage": "https://alhadi415.github.io/top/images/2_17.jpg" ,
 
-              "questionImage" : "images/2_17_17.jpg"   , 
+             "questionImage": "https://alhadi415.github.io/top/images/2_17_17.jpg"
           },
           {
               "question": "The artifact seen in Figure 2-3 corresponds to:",
