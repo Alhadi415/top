@@ -84,7 +84,7 @@ const questions = [
       "answer": "The flow and the transmitted ultrasound beam",
       "explanation": " Doppler angle is the angle between the direction of flow (in Figure 1-10, flow through the tricuspid valve indicated by the blue arrow) and that of the ultrasound beam (green line). The orientation of either the ventricle (long axis indicated by the pink line) or the transducer (central axis indicated by the brown line) has no role in the interaction between ultrasound and moving blood cells that reflect ultrasound at a frequency that depends on the direction of blood flow along the beam  Like the train, blood cells moving away from the transducer reflect sound with lower frequency than those moving toward the transducer. What determines whether it is the former or the latter is the angle between the flow and the direction of the transmitted beam: when the angle is 90 degrees, then the flow is away from the transducer, and vice versa, when the angle is 90 degrees, then the flow is toward the transducer.  ",
       
-    "explanationImage": "images/10.jpg"// مسار الصورة
+    "explanationImage": "images/ten.jpg"// مسار الصورة
     
     },
     
