@@ -185,7 +185,7 @@ const questions = [
               "answer": "D. Range ambiguity.",
               "explanation": "The arrow in Figure 2-1 is pointing to an image created by range-ambiguity echoes, which generate an apparent \"mass\" within the left ventricle. This can be better visualized in Video 2-6A. Changing the depth can help eliminate this type of artifact as shown in Video 2-6B. After increasing the depth, the artifact disappears. The range ambiguity artifact can cause echoes from distant structures to appear closer to the transducer (see Figure 2-14; below; T - transmitted pulse; L - returned pulse; L’ - returned pulse during next listen cycle). As stated before, PRF is automatically reduced when imaging deeper structures.",
                "explanationImage": "https://alhadi415.github.io/top/images/Twosixten.jpg" ,
-                    "questionImage": "https://alhadi415.github.io/top/images/2-16-16.jpg" ,
+                    "questionImage": "https://alhadi415.github.io/top/images/Twosixten.jpg" ,
 
   
    
