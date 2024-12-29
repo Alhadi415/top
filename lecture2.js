@@ -185,7 +185,7 @@ const questions = [
               "answer": "D. Range ambiguity.",
               "explanation": "The arrow in Figure 2-1 is pointing to an image created by range-ambiguity echoes, which generate an apparent \"mass\" within the left ventricle. This can be better visualized in Video 2-6A. Changing the depth can help eliminate this type of artifact as shown in Video 2-6B. After increasing the depth, the artifact disappears. The range ambiguity artifact can cause echoes from distant structures to appear closer to the transducer (see Figure 2-14; below; T - transmitted pulse; L - returned pulse; L’ - returned pulse during next listen cycle). As stated before, PRF is automatically reduced when imaging deeper structures.",
                "explanationImage": "https://alhadi415.github.io/top/images/Twosixten.jpg" ,
-                    "questionImage": "https://alhadi415.github.io/top/images/Twosixten.jpg" ,
+                    "questionImage": "https://alhadi415.github.io/top/images/2-16-16.jpg" ,
 
   
    
@@ -202,7 +202,8 @@ const questions = [
               ],
               "answer": "C. Near-field clutter.",
               "explanation": "This type of artifact is known as near-field clutter. It is created from high-amplitude reflections from the transducer and affects the near field of the ultrasound beam. The appearance of additional echoes in the near field can mask weaker echoes of true anatomic structures or mimic a mass or thrombus. It is often misinterpreted as a left ventricular thrombus. Improving the near-field resolution with higher frequency transducers, changing the views, and using contrast agents and harmonic imaging can all help reduce or eliminate this type of artifact (Fig. 2-15; T  transmitted pulse; L  returned pulse).    ",
-              "explanationImage": "images/2_17.jpg",
+              "explanationImage": "https://alhadi415.github.io/top/images/2_17.jpg" ,
+
               "questionImage" : "images/2_17_17.jpg"   , 
           },
           {
